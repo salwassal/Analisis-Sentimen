@@ -1,5 +1,5 @@
-pandas
-re
-nltk
-sastrawi
-scikit-learn
+streamlit==0.89.0
+pandas==1.4.1
+nltk==3.6.5
+Sastrawi==1.0.1
+scikit-learn==1.0.2
