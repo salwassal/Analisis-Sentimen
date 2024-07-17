@@ -1,0 +1,5 @@
+pandas
+re
+nltk
+sastrawi
+scikit-learn
